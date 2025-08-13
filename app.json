@@ -109,7 +109,7 @@
     "AUTO_REACT": {
       "description": "Put 'true' if you want the bot to auto react to messages. You can set up this later using .autoreact",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "ANTICALL": {
       "description": "Make it 'true' if you want to automatically reject calls or 'block' to decline calls and block caller. You can set up this later using .anticall",
